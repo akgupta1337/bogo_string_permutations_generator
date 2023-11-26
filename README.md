@@ -1,5 +1,5 @@
-# String Permutations Generator
-#(BRUTE FORCE)
+#String Permutations Generator(BRUTE FORCE)
+
 This Python script generates all possible permutations of a given string using the random module.
 
 ## Overview
