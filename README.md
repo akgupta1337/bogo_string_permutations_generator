@@ -14,6 +14,14 @@ Ever wondered about the countless ways you can rearrange the characters of a str
 
 - **Prints all possible permutations:** Once the permutations are generated, the script prints them for you to marvel at. For example:
 
+## Example
+Suppose you enter the string "cow". The script will output various unique permutations of the characters in the string. For example:
+```bash
+ALL POSSIBLE PERMUTATIONS OF THE ENTERED STRING: 6
+
+['wco', 'ocw', 'woc', 'owc', 'cwo', 'cow']
+```
+
 ## Usage
 
 1. Run the script.
@@ -22,11 +30,3 @@ Ever wondered about the countless ways you can rearrange the characters of a str
 ```bash
 python string_permutations_generator.py
 ```
-
-## Example
-Suppose you enter the string "cow". The script will output various unique permutations of the characters in the string. For example:
-
-ALL POSSIBLE PERMUTATIONS OF THE ENTERED STRING: 6
-
-['wco', 'ocw', 'woc', 'owc', 'cwo', 'cow']
-
