@@ -35,9 +35,9 @@ ALL POSSIBLE PERMUTATIONS OF THE ENTERED STRING: 6
 2. Enter a string when prompted. For example, enter "cow".
 
 ## Disadvantage
-• Since it's a brute force not an algorithm it can take lot of time for longer strings
+- Since it's a brute force not an algorithm it can take lot of time for longer strings
 
-• My i-7 processor could handle strings upto length 7 easily, after that it took some time.
+- My i-7 processor could handle strings upto length 7 easily, after that it took some time.
 
 
 ## Created On
