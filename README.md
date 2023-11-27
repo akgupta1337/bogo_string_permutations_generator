@@ -1,6 +1,6 @@
 # String Permutations Generator(BRUTE FORCE)
 
-This Python script generates all possible permutations of a given string using the random module.
+This Python script generates all possible permutations of a given string using the random module. This is a sort of brute force way, since I havent studied DSA yet, Our sir taught us about random module, so I created this program for fun.
 
 ## Overview
 
@@ -31,6 +31,8 @@ ALL POSSIBLE PERMUTATIONS OF THE ENTERED STRING: 6
 
 ## Disadvantage
 • Since it's a brute force not an algorithm it can take lot of time for longer strings
+• My i-7 processor could handle strings upto length 7 easily, after that it took some time.
+
 
 ```bash
 python string_permutations_generator.py
