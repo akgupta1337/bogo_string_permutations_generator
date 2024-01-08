@@ -1,4 +1,4 @@
-# String Permutations Generator (BRUTE FORCE)
+# BOGO String Permutations Generator (BRUTE FORCE)
 
 This Python script generates all possible permutations of a given string using the random module. This is a sort of brute force way, since I havent studied DSA yet, Our sir taught us about random module, so I created this program for fun.
 
